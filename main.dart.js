@@ -71603,7 +71603,7 @@ A.atB(!0,"Animate.onInit is not called when used with Animate.controller")
 r.as=A.a([],t.WG)
 return A.cf(B.O,r.L7(new A.z7(s,s,s,s,s)).L7(new A.JD(B.eP,s,s,s,s,s,s,s,B.cn,s,0,1)),B.q,s,s,s,s,s,s,s,s,s,s)},
 VN(a){return a?B.HQ:new A.x1(new A.adw(this),null)},
-VG(){return A.cY(A.a([B.Rq,A.rv(B.Rk,new A.adv(this),null)],t.p),B.y,B.aw,B.B,null)}}
+VG(){return A.cY(A.a([B.Rq,A.rv(B.Rn,new A.adv(this),null)],t.p),B.y,B.aw,B.B,null)}}
 A.adz.prototype={
 $1(a){this.a.a1z()},
 $S:5}
@@ -71683,7 +71683,7 @@ this.UB()},
 L(a){var s,r=null,q=this.e
 q===$&&A.b()
 s=t.p
-return A.aqd(B.k,A.uB(A.er(A.a([A.l1(A.J3(new A.vZ(!0,!0,A.aHH().$3$color$fontSize$fontWeight(B.AP,28,B.ad),"MegaHertz Robotics",r),q),r,q),B.iK,A.l1(A.J3(A.la("assets/splash_screen.png",r,r,200,200),q),r,q),B.dO,A.cY(A.a([A.l1(B.Rg,r,q),A.l1(B.Ro,r,q)],s),B.y,B.aw,B.B,r)],s),B.y,B.aw,B.B,r),r,r),r,r)}}
+return A.aqd(B.k,A.uB(A.er(A.a([A.l1(A.J3(new A.vZ(!0,!0,A.aHH().$3$color$fontSize$fontWeight(B.AP,28,B.ad),"MegaHertz Robotics",r),q),r,q),B.iK,A.l1(A.J3(A.la("assets/splash_screen.png",r,r,200,200),q),r,q),B.dO,A.cY(A.a([A.l1(B.Rg,r,q),A.l1(B.Rk,r,q)],s),B.y,B.aw,B.B,r)],s),B.y,B.aw,B.B,r),r,r),r,r)}}
 A.agu.prototype={
 $0(){var s,r,q=this.a.c
 q.toString
@@ -77459,8 +77459,8 @@ B.ML=new A.a91("tap")
 B.o=new A.iZ(0,"alphabetic")
 B.J=new A.iZ(1,"ideographic")
 B.MM=new A.yW(null)
-B.Rn=new A.cP("Wants to build projects",null,B.cJ,null,null,null,null)
-B.wm=new A.kc(null,null,null,null,null,null,null,!1,null,!0,null,B.Rn,null)
+B.Ro=new A.cP("Wants to build projects",null,B.cJ,null,null,null,null)
+B.wm=new A.kc(null,null,null,null,null,null,null,!1,null,!0,null,B.Ro,null)
 B.Rp=new A.cP("Rentals",null,B.cJ,null,null,null,null)
 B.wp=new A.kc(null,null,null,null,null,null,null,!1,null,!0,null,B.Rp,null)
 B.iS=new A.rw(3,"none")
@@ -77766,14 +77766,14 @@ B.Rg=new A.cP("Co.powered and managed by ",null,B.Oq,null,null,null,null)
 B.Or=new A.m(!0,B.j,null,null,null,null,16,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Rh=new A.cP("LinkedIn",null,B.Or,null,null,null,null)
 B.Rj=new A.cP("Watch Now ",null,B.wA,null,null,null,null)
-B.AJ=new A.p(1,0,0.6823529411764706,1,B.e)
-B.wz=new A.m(!0,B.AJ,null,null,null,null,16,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Rk=new A.cP("Alphacodes101",null,B.wz,null,null,null,null)
+B.Os=new A.m(!0,B.k9,null,null,null,null,18,B.co,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Rk=new A.cP("Alphacodes & SUJAL KRISHNA",null,B.Os,null,null,null,null)
 B.Ov=new A.m(!0,B.da,null,null,null,null,25,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Rm=new A.cP("Tutorials ",null,B.Ov,null,null,null,null)
+B.AJ=new A.p(1,0,0.6823529411764706,1,B.e)
+B.wz=new A.m(!0,B.AJ,null,null,null,null,16,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Rn=new A.cP("Alphacodes101 & SUJAL KRISHNA ",null,B.wz,null,null,null,null)
 B.wD=new A.cP("GET IN TOUCH",null,B.iU,null,null,null,null)
-B.Os=new A.m(!0,B.k9,null,null,null,null,18,B.co,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ro=new A.cP("Alphacodes",null,B.Os,null,null,null,null)
 B.wF=new A.cP("Buy Products",null,B.cJ,null,null,null,null)
 B.Rq=new A.cP("Co.powered and managed by :",null,B.wz,null,null,null,null)
 B.zq=new A.p(1,0,0.9176470588235294,1,B.e)
